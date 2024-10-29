@@ -27,7 +27,7 @@ This is a simple, real-time multiplayer Tic-Tac-Toe game built with HTML, CSS, J
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/mnn2003/Tic-Tac-Toe-Multiplayer.git
-    cd tic-tac-toe-multiplayer
+    cd Tic-Tac-Toe-Multiplayer
     ```
 
 2. **Firebase Configuration**:
